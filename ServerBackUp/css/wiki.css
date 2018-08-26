@@ -1,0 +1,111 @@
+body{
+	margin:0px;
+	padding: 0px;
+	background-color: white;
+   	background-repeat: repeat;
+}
+#previewImg{
+	display:block;
+	border:2px solid black;
+	width:100%;
+	height:280px;
+	margin:0px;
+
+}
+#leftc{
+	width:25%;
+	max-width: 300px;
+	margin:0px;
+	padding:0px;
+	display:inline-block;
+	float:left;
+
+}
+#centerc{
+	float:left;
+	width:55%;
+	z-index: 1;
+	display:block;
+	margin-left:5px;
+	margin-top:5px;
+	margin-right:0px;
+	background:white;
+	height:94%;
+}
+#rightc{
+	float:right;
+	width:20%;
+	background:white;
+	height:94%;
+	border-left: 2px solid black;
+}
+#spacerbar2{
+	padding-bottom: 20px;
+}
+#infoContainer{
+	background-color: #FAFAFA;
+	height:65%;
+	width:100%;
+	margin:0px;
+	border-right:2px solid black;
+	border-left:2px solid black;
+}
+#infoList{
+	padding:8px;
+	margin:0px;
+	margin-left:5px;
+	list-style-type: circle;
+}
+#infoList li{
+	padding:10px;
+}
+#wikiInfo{
+	padding:10px;
+	font-family: "ASrial";
+	font-size:18px;
+}
+#wikiTitle{
+	font-family: "Arial";
+}
+#borderTitle{
+	border-bottom: 1px solid black;
+}
+.liAnswer{
+	color:grey;
+}
+.liQuestion{
+	font-weight: bold;
+	font-family: "Arial";
+	font-size:14px;
+}
+#wikiRTitle{
+	text-align: center;
+	width:100%;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-family:"Arial";
+}
+#wikiRGTitle{
+	border-bottom:1px solid black;
+}
+#ulServers{
+	list-style-type: none;
+}
+#ulServers li{
+	padding-bottom:110px;
+}
+#serversIcon{
+	display: block;
+	float: left;
+	height:100px;
+	width:90%;
+	padding:0px;
+	margin:0px;
+	 border-radius: 4px;
+	border:solid 1px black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

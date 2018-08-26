@@ -1,0 +1,11 @@
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\UploadAttachments.exe.config
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\UploadAttachments.exe
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\UploadAttachments.pdb
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\bin\Debug\UploadAttachments.xml
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\UploadAttachments.Form1.resources
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\UploadAttachments.Resources.resources
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\UploadAttachments.exe
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\UploadAttachments.xml
+c:\users\gavmon\documents\visual studio 2017\Projects\WindowsApp1\WindowsApp1\obj\Debug\UploadAttachments.pdb

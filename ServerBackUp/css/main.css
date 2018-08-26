@@ -1,0 +1,377 @@
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+#bottomBar{
+	position: fixed;
+	height:25px;
+	z-index: 1; 
+    bottom: 0; 
+    left: 0;
+    width: 100%;
+    background-color: black;
+}
+#credits{
+	font-size: 12px;
+}
+#loginLink{
+	color:white;
+}
+a{
+	color:white;
+}
+.blackLink{
+color:black;
+}
+#blackTable{
+background-color:black;
+}
+#bottomList{
+	display:inline-flex;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	list-style-type: none;
+}
+#bottomList li{
+	color:white;
+	width:150%;
+}
+#logoicon{
+	background-image: url("../imgs/Logo.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	width:48px; 
+	height:48px;
+	margin-left:50px;
+	display: block;
+	float: left;
+}
+#searchBoxIcon{
+	float:right;
+	display:inline-block;
+	margin:3px;
+	background-image: url("../imgs/search.png");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	width:24px; 
+	height:24px;
+}
+#searchBox{
+	float: right;
+    display: inline-block;
+    margin: 7px;
+    padding: 0px;
+    border-radius: 2px;
+    border:1px solid black;
+}
+#backLink{
+	text-decoration: none;
+	color:black;
+	width:25%;
+	display:inline-flex;
+}
+#backText{
+	margin:3px;
+	width:auto;
+}
+#backicon{
+	display: inline-block;
+	float:left;
+	width:32px; 
+	height:32px;
+	background-image: url("../imgs/back.png");
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#racksicon{
+	background-image: url("../imgs/rackicon.png");
+	width:64px; 
+	height:64px;
+	display: block;
+	float: left;
+	margin-top:-30px;
+}
+#rackIcon{
+	width:80px; 
+	height:100px;
+	display: block;
+	float: left;
+	height:150px;
+	width:120px;
+	padding:0px;
+	margin:0px;
+	 border-bottom-left-radius: 4px;
+	 border-top-left-radius: 4px;
+	border-right:solid 1px black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#serverIcon{
+	display: block;
+	float: left;
+	height:100px;
+	width:200px;
+	padding:0px;
+	margin:0px;
+	 border-bottom-left-radius: 4px;
+	 border-top-left-radius: 4px;
+	border-right:solid 1px black;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.serverIcon1_1{
+	background-image: url("../imgs/servers/1/icon_server1.jpg");
+}
+.serverIcon1_2{
+	background-image: url("../imgs/servers/1/icon_server2.jpg");
+}
+.serverIcon1_3{
+	background-image: url("../imgs/servers/1/icon_server3.jpg");
+}
+.serverIcon1_4{
+	background-image: url("../imgs/servers/1/icon_server4.jpg");
+}
+.serverIcon1_5{
+	background-image: url("../imgs/servers/1/icon_server5.jpg");
+}
+.serverIcon1_6{
+	background-image: url("../imgs/servers/1/icon_server6.jpg");
+}
+.serverIcon1_7{
+	background-image: url("../imgs/servers/1/icon_server7.jpg");
+}
+.serverIcon1_8{
+	background-image: url("../imgs/servers/1/icon_server8.jpg");
+}
+.serverIcon1_9{
+	background-image: url("../imgs/servers/1/icon_server9.jpg");
+}
+.serverIcon1_10{
+	background-image: url("../imgs/servers/1/icon_server10.jpg");
+}
+.serverIcon1_11{
+	background-image: url("../imgs/servers/1/icon_server11.jpg");
+}
+.serverIcon1_12{
+	background-image: url("../imgs/servers/1/icon_server12.jpg");
+}
+.serverIcon1_13{
+	background-image: url("../imgs/servers/1/icon_server13.jpg");
+}
+.serverIcon1_14{
+	background-image: url("../imgs/servers/1/icon_server14.jpg");
+}
+.serverIcon1_15{
+	background-image: url("../imgs/servers/1/icon_server15.jpg");
+}
+.serverIcon1_16{
+	background-image: url("../imgs/servers/1/icon_server16.jpg");
+}
+.serverIcon3_1{
+	background-image: url("../imgs/servers/3/icon_server1.jpg");
+}
+.serverIcon3_2{
+	background-image: url("../imgs/servers/3/icon_server2.jpg");
+}
+.serverIcon3_3{
+	background-image: url("../imgs/servers/3/icon_server3.jpg");
+}
+.serverIcon3_4{
+	background-image: url("../imgs/servers/3/icon_server4.jpg");
+}
+.serverIcon3_5{
+	background-image: url("../imgs/servers/3/icon_server5.jpg");
+}
+.serverIcon3_6{
+	background-image: url("../imgs/servers/3/icon_server6.jpg");
+}
+.serverIcon3_7{
+	background-image: url("../imgs/servers/3/icon_server7.jpg");
+}
+#rackIconLink:hover #riText{
+display:block;
+}
+#riText{
+ text-underline-position: 1px;
+}
+#rackIconLink #riText {
+  display: none;
+  position: absolute;
+  background: rgba(0,0,0,0.6);
+  color: #ddd;
+  padding: 6px;
+  border-top-left-radius: 6px;
+}
+.rackIcon1{
+	background-image: url("../imgs/racks/icon_rack1.jpg");
+}
+.rackIcon2{
+	background-image: url("../imgs/racks/icon_rack2.jpg");
+}
+.rackIcon3{
+	background-image: url("../imgs/racks/icon_rack3.jpg");
+}
+.rackIcon4{
+	background-image: url("../imgs/racks/icon_rack4.jpg");
+}
+.rackIcon5{
+	background-image: url("../imgs/racks/icon_rack5.jpg");
+}
+#spacerbar{
+	padding-bottom: 90px;
+}
+#topbar{
+	background: black;
+	padding: 0px;
+	margin:0px;
+	-webkit-box-shadow:0px 1px 10px gray;
+    -moz-box-shadow:0px 1px 10px gray;
+    box-shadow:0px 1px 10px gray;
+	position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+}
+#bartable{
+	background: black;
+	padding: 0px;
+	margin:0px;
+	width:100%;
+	display:inline;
+}
+#bartable td{
+
+
+}
+#barrow{
+	background: black;
+	padding: 0px;
+	margin:0px;
+}
+#baritem{
+	background: black;
+	padding: 0px;
+	margin:0px;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+#barLogotext{
+	color: white;
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 24px;
+	padding-top:50px;
+	padding-left:10px;
+	padding-right:20px;
+	padding-bottom:50px;
+
+}
+.stripes {
+	 background: linear-gradient(to right, white, #ededed);
+}
+#racks{
+	color: black;
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 20px;
+	padding:0px;
+	margin:5px;
+	display: inline-block;
+	width: 50%;
+}
+#racksTitle{
+	color: black;
+	font-family: "Arial";
+	font-weight: bold;
+	font-size: 20px;
+	padding-left:10px;
+	margin:0px;
+	width: 100%;
+	border-bottom:solid 1px black;
+}
+#racksDesc{
+	color:gray;
+	font-size:16px;
+	height:70%;
+}
+#racksDesc{
+	color:gray;
+	font-size:16px;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: auto 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+	border-radius:4px;
+}
+#DescRack{
+	height:80;
+}
+#DescServer{
+	height:40;
+}
+#rackTable{
+	width:75%;
+	float:left;
+	
+}
+#serverTable{
+	width:63%;
+	float:left;
+	
+}
+#rackTable tr{
+	width:100%;
+}
+#centerer{
+	margin-left:15%;
+	margin-right:15%;
+}
+
+.Rounded{
+	border-radius: 8px;
+	border: solid 1px gray;
+	padding:0px;
+	-moz-box-shadow: 0 5px 10px #ccc;
+	-webkit-box-shadow: 0 5px 10px #ccc;
+	box-shadow: 0 5px 10px #ccc;
+	margin-bottom:25px;
+}
+
+#homeSubCom{
+	display: inline;
+	vertical-align: top;
+	padding:0px;
+	margin:0px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	text-align: center;
+	line-height: 100px;
+		
+}
