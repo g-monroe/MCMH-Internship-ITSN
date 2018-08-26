@@ -1,0 +1,11 @@
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\bin\Debug\AssetUploader.exe.config
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\bin\Debug\AssetUploader.exe
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\bin\Debug\AssetUploader.pdb
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\bin\Debug\AssetUploader.xml
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.vbprojResolveAssemblyReference.cache
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.Form1.resources
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.Resources.resources
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.vbproj.GenerateResource.Cache
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.exe
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.xml
+c:\users\gavmon\documents\visual studio 2017\Projects\AssetUploader\AssetUploader\obj\Debug\AssetUploader.pdb
